@@ -1,7 +1,5 @@
-### Hello 👋
-
-
-- 🔭 I’m currently working on ... Data Structures 
+Hello,
+I am currently working on Problem Solving skills.
 
 
 
