@@ -1,5 +1,5 @@
 Hello,
-I am currently working on Problem Solving using efficient Data Structure and Algorithm.
+I am currently working on Problem Solving using optimal Data Structures and Algorithms.
 
 
 
